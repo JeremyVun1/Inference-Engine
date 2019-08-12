@@ -23,6 +23,4 @@ ASK
 [symbol query];
 
 
-Operator Symbols
-
-&; ||; =>; <=>; (; ); ~;
+Operator Symbols: &; ||; =>; <=>; (; ); ~;
