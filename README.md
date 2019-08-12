@@ -1,9 +1,7 @@
-===========
 how to use
 ===========
 ./iengine <method> <filename>
 
-===========
 SAT Methods
 ===========
 TT: Truth table enumeration
@@ -12,7 +10,6 @@ FC: Forward chaining
 RES: Resolution
 DPLL: Davis-Putnam
 
-===========
 File structure
 ===========
 See example_file.txt for example
