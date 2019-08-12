@@ -1,4 +1,4 @@
-how to use
+CMD Args
 ===========
 ./iengine <method> <filename>
 
